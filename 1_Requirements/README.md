@@ -36,3 +36,13 @@ Commonly used during rainy season and when there is unwanted dust in windshield.
 For cleaning the wind shield from unwanted dust and mist. 
 # HOW 
 When we on the wiper switch it gets activated. 
+# Advantages 
+1) Optimal wiping performance
+2) Enhanced driver comfort
+3) Reduced noise from wiper operation
+4) Improved visibility
+5) Vechicle design freedom
+6) Space occupancy in plenum area significantly reduced
+7) Wiper arm/blade protection - from potential sources of damage e.g. snow block.
+Easy blade replacement
+8) 'service' position facilitates blade replacement.
