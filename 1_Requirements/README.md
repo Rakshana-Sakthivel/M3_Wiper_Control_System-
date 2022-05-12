@@ -18,3 +18,5 @@ A wiper speed control system for an automotive wiper controls the operational sp
 1) The rain sensor based system functions when water falls on the sensor directly.
 2) The cost of overall system increases as additional components are needed along with rain sensor.
 3) In order to avoid false detection of rain, it requires rain sensors to take decision after few minutes.
+# Opportunities 
+Windshield wipers keep the windshield of a vehicle clear from rain water, snow, dust and road spray. The first windshield wipers were operated manually by moving a lever inside the car. Later wiper designs were powered by the engine's manifold vacuum. 
