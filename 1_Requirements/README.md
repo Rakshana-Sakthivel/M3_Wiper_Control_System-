@@ -46,3 +46,5 @@ When we on the wiper switch it gets activated.
 7) Wiper arm/blade protection - from potential sources of damage e.g. snow block.
 Easy blade replacement
 8) 'service' position facilitates blade replacement.
+# Disadvantages 
+While rain sensors are generally a good idea, they're not usually necessary in extremely arid environments that receive relatively small amounts of precipitation. In this case, a sensor would have little or no value.
