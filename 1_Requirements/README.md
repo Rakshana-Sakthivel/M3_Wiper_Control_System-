@@ -14,3 +14,7 @@ A wiper speed control system for an automotive wiper controls the operational sp
 6) It consumes less power for operation.
 7) Installation of rain sensor based systems are very much simple.
 8) Individual rain sensor costs very less.
+# Weakness
+1) The rain sensor based system functions when water falls on the sensor directly.
+2) The cost of overall system increases as additional components are needed along with rain sensor.
+3) In order to avoid false detection of rain, it requires rain sensors to take decision after few minutes.
