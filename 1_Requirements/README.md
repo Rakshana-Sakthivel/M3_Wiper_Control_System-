@@ -27,3 +27,12 @@ Your windshield wipers don't weight very much so its easy for heavy wet snow to 
 If you don't put your windshield wiper blades on properly, they won't be able to function. 
 # Wipers have torn blades 
 Your windshield wiper blades are made of rubber that's meant to handle water and sometimes ice. Faced with anything solid, these rubber blades can rip easily causing your wipers not to work. Causes of Broken Windshield Wipers. 
+# 4W's and 1'H 
+# WHERE 
+During driving in heavy rain. 
+# WHEN 
+Commonly used during rainy season and when there is unwanted dust in windshield. 
+# WHY 
+For cleaning the wind shield from unwanted dust and mist. 
+# HOW 
+When we on the wiper switch it gets activated. 
