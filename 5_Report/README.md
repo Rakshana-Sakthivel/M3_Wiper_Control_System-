@@ -22,4 +22,29 @@ Large-scale storage (with new order code only)
 
 Board power is supplied through USB or an external 5 V supply source.
 
-3 V and 5 V external application power supply
+3 V and 5 V external application power supply 
+# USES 
+This Microcontroller is utilised in printing and scanning machines ,heat ventilation, air conditioning, and security systems.
+
+This module can be found in a variety of household products. 
+# WORKING PRINCIPLE 
+Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again  the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+# 4 W'S 
+# WHAT IS WIPER SYSTEM 
+Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars. 
+# WHY WIPER SYSTEM 
+To keep the windscreen clean enough to give adequate view at all times. 
+# WHEN SHOULD USE WIPER SYSTEM 
+The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night. 
+# WHO DISCOVERED WIPER SYSTEM 
+Mark Anderson invented on 1902 
+# ENGINE ON STATE 
+![168195223-4ffe543a-e10e-4558-8f71-7fb72f42b8bf](https://user-images.githubusercontent.com/101009876/168213854-fd8d9286-cd42-4832-9445-26df69923b89.png)
+# WIPER SPEED IS LOW 
+![168207426-c329cffd-af87-42a0-bc8b-d875a0c1e922](https://user-images.githubusercontent.com/101009876/168213922-6154bc1a-7215-4b9c-9c7c-412d2e6498f3.png)
+# WIPER SPEED IS MODERATE 
+![168195256-babaf133-6f22-4961-be93-fd78d63f2ae4](https://user-images.githubusercontent.com/101009876/168213988-cf4a565f-6269-404c-b74e-fc5b72776ce6.png)
+# WIPER SPEED IS HIGH 
+![168207493-3c120a56-da8b-4e6d-a229-3107ec348395](https://user-images.githubusercontent.com/101009876/168214051-ea470bf9-9384-4291-8c70-228811cdb7f2.png)
+# OFF STATE 
+![168195291-cc56a05a-6c2d-46f8-842a-e36059586f07](https://user-images.githubusercontent.com/101009876/168214098-27a49c36-9abf-42fc-b536-5e8fdfacc296.png)
