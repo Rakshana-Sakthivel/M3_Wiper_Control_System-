@@ -11,3 +11,5 @@
 [![Build CI -Linux](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Linux.yml)
 # GIT INSPECTOR
 [![Contribution Check - Git Inspector](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Git_inspector.yml)
+# BUILD-WINDOWS 
+[![Build CI - Windows](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Windows.yml)
