@@ -15,3 +15,5 @@
 [![Build CI - Windows](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Windows.yml)
 # CPPCHECK ACTION 
 [![cppcheck-action](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/cppcheck.yml)
+# UNIT TESTING 
+[![Unit testing](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Unit_Testing.yml)
