@@ -2,7 +2,10 @@
 # CODE QUALITY SCORE
 ![svg](https://user-images.githubusercontent.com/101009876/168315806-dc461dfd-b35b-47e3-b7ab-e10a87e15fa3.svg) 
 # CODE GRADE 
-![svg (1)](https://user-images.githubusercontent.com/101009876/168315915-2b96e5f7-14fb-4e0d-abd8-ef7e952e0a82.svg)
+![svg (1)](https://user-images.githubusercontent.com/101009876/168315915-2b96e5f7-14fb-4e0d-abd8-ef7e952e0a82.svg) 
+# CODIGA STATIC ANALYSIS 
+![Rakshana-Sakthivel](https://user-images.githubusercontent.com/101009876/168427108-3f523176-8d03-40f8-b9fc-d4841760a53f.svg)
+
 # CODACY STATIC CODE ANALYSIS 
 ![88f29f6b51424c558cd0f9f2d285c0e4](https://user-images.githubusercontent.com/101009876/168415458-35ed8332-b982-44fe-b5b0-a1bfda7ffe71.svg)
 # ANALYSIS
