@@ -1,4 +1,16 @@
 # M3_WIPER_CONTROL_SYSTEM 
+This Project is an Wiper control system , a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times. We are trying to simulate this project on stmcube 32 IDE 
+# GUIDELINES 
+Use STM32cube IDE software for simulation purpose and for coding purpose use the visual studio code.
+
+Return appropriate results from all the functions.
+
+Follow Modular programming and multifile approach
+
+Create Makefile with targets for compiling and testing, analysis and coverage.
+
+Follow best practices while writing the code. 
+# BADGES 
 # CODE QUALITY SCORE
 ![svg](https://user-images.githubusercontent.com/101009876/168315806-dc461dfd-b35b-47e3-b7ab-e10a87e15fa3.svg) 
 # CODE GRADE 
@@ -22,4 +34,15 @@
 [![Unit testing](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Unit_Testing.yml)
 # VALGRIND 
 [![Valgrind](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Valgrind.yml)
+# FOLDER STRUCTURE 
+•0_Abstract ---> Project Title and objectives of the Project.
 
+•1_Requirements ---> Documents detailing high and low level requirements.
+
+•2_Design ---> Behavioural diagram, Structural diagram , Flowchart
+
+•3_Implementation ---> Simulation, Documentation, Makefile & all the C code is written here.
+
+•4_Testplan and Output ---> All the images.---> Test cases, Off Mode, On Mode
+
+•5_Report ---> Generated a detailed Report.
