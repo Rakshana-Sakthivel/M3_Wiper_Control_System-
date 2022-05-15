@@ -19,8 +19,10 @@ Follow best practices while writing the code.
 ![Rakshana-Sakthivel](https://user-images.githubusercontent.com/101009876/168427108-3f523176-8d03-40f8-b9fc-d4841760a53f.svg)
 
 # CODACY STATIC CODE ANALYSIS 
-![88f29f6b51424c558cd0f9f2d285c0e4](https://user-images.githubusercontent.com/101009876/168415458-35ed8332-b982-44fe-b5b0-a1bfda7ffe71.svg)
-# ANALYSIS
+![88f29f6b51424c558cd0f9f2d285c0e4](https://user-images.githubusercontent.com/101009876/168415458-35ed8332-b982-44fe-b5b0-a1bfda7ffe71.svg) 
+# MAKEFILE 
+[![Makefile](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/makefile.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/makefile.yml)
+# ANALYSIS 
 [![Analysis](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Analysis.yml)
 # BUILD-LINUX
 [![Build CI -Linux](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Rakshana-Sakthivel/M3_Wiper_Control_System-/actions/workflows/Build_Linux.yml)
